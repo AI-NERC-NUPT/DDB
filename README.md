@@ -29,7 +29,7 @@ git clone https://github.com/freeSubmission/DDB.git
 ### Train
 
 ```
-cd SDB/scripts
+cd DDB/scripts
 vim train.sh
 bash train.sh
 ```
